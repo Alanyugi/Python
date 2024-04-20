@@ -1,2 +1,2 @@
 # Python
-Core and Advanced Python Sessions 
+Core and Advanced Python Programming Study Material 
